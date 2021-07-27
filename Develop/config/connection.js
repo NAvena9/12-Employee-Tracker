@@ -11,9 +11,4 @@ const connection = mysql.createConnection({
     database: 'employee_trackerDB'
 });
 
-connection.connect((err) => {
-  if(err) throw err;
-  console.log('Connected to port 3306')
-});
-
 module.exports = connection;

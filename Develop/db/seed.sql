@@ -44,3 +44,5 @@ VALUES
     ('Malia', 'Williams', 12, 11),
     ('Prisca', 'Ovalle', 13, NULL),
     ('Luis', 'Pompa', 14, 13);
+
+
